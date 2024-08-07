@@ -1,0 +1,18 @@
+{
+    "contacts": {
+        "qwe": {
+            "name": "qwe",
+            "phones": [
+                "1234567890"
+            ],
+            "birthday": null
+        },
+        "www": {
+            "name": "www",
+            "phones": [
+                "0987654321"
+            ],
+            "birthday": null
+        }
+    }
+}
