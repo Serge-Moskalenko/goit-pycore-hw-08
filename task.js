@@ -1,5 +1,5 @@
-const data=require('./addressbook.json');
-const {contacts}=data
+
+const {contacts}=data=require('./addressbook.json');
 Object.entries(contacts).forEach(function([key, value]) {
     console.log(key, value);
 })
